@@ -1,0 +1,9 @@
+C:\Users\Administrator\documents\visual studio 2012\Projects\APIwifi\Win32API\bin\Debug\Win32API.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\APIwifi\Win32API\bin\Debug\Win32API.pdb
+C:\Users\Administrator\documents\visual studio 2012\Projects\APIwifi\Win32API\obj\Debug\Win32API.dll
+C:\Users\Administrator\documents\visual studio 2012\Projects\APIwifi\Win32API\obj\Debug\Win32API.pdb
+G:\360data\重要数据\我的文档\Visual Studio 2012\Projects\APIwifi\Win32API\bin\Debug\Win32API.dll
+G:\360data\重要数据\我的文档\Visual Studio 2012\Projects\APIwifi\Win32API\bin\Debug\Win32API.pdb
+G:\360data\重要数据\我的文档\Visual Studio 2012\Projects\APIwifi\Win32API\obj\Debug\Win32API.csprojResolveAssemblyReference.cache
+G:\360data\重要数据\我的文档\Visual Studio 2012\Projects\APIwifi\Win32API\obj\Debug\Win32API.dll
+G:\360data\重要数据\我的文档\Visual Studio 2012\Projects\APIwifi\Win32API\obj\Debug\Win32API.pdb
